@@ -36,3 +36,8 @@ Configura los datos de conexión a la base de datos en el archivo config.php.
 
 [Postman]([https://github.com/cedioza/php-itteam](https://documenter.getpostman.com/view/17377152/2s93RRxZYT))
 
+# Live
+
+https://itteamtest.000webhostapp.com/api/api.php
+
+
